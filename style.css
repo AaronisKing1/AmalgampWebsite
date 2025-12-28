@@ -19,7 +19,7 @@ body {
             color: white;
             margin: 0;
             left: 0;
-            padding: 5px 10px;
+            padding: 5px 5px;
         }
 
         .nav-list {
@@ -30,7 +30,7 @@ body {
         .nav-list li {
             margin: 0;
              padding: 0;
-            margin-right: 10px;
+            margin-right: 5px;
         }
 
         .nav-list li:last-child {
