@@ -24,12 +24,14 @@ body {
 
         .nav-list {
             display: flex;
+            margin: 0;
+            padding: 0;
             list-style: none;
         }
 
         .nav-list li {
             margin: 0;
-             padding: 0;
+            padding: 0;
             margin-right: 5px;
         }
 
