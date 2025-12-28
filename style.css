@@ -12,7 +12,7 @@ body {
             position: sticky;
             align-items: left;
             text-align: left;
-            justify-content: space-between;
+            justify-content: flex-start;
             top: 0px;
             background: RGB(0, 189, 255);
             background-blend-mode: darken;
@@ -29,6 +29,8 @@ body {
         }
 
         .nav-list li {
+            margin: 0;
+             padding: 0;
             margin-right: 20px;
         }
 
