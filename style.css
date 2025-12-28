@@ -10,7 +10,7 @@ body {
         .navbar {
             display: flex;
             position: sticky;
-            align-items: center;
+            align-items: left;
             justify-content: space-between;
             top: 0px;
             background: RGB(0, 189, 255);
